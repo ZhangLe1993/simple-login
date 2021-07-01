@@ -1,38 +1,40 @@
-# simple-login
+# 美观好看的登录模板 simple-login 
 
-##### 微信/QQ登录
+##### 第三方微信/QQ登录
 ![1.png](img/second-login.png)
 
-##### 
+##### 验证码登录
 ![2.png](./img/code-login.png)
 
-##### 
+##### 密码登录
 ![3.png](./img/password-login.png)
 
-##### 
+##### 第三方微信/QQ注册
 ![4.png](./img/second-regist.png)
 
-##### 
-![5.png](./img/password-regist.png)
-## Project setup
+##### 验证码注册
+![5.png](./img/code-regist.png)
+
+##### 密码注册
+![6.png](./img/password-regist.png)
+
+## 初始化
 ```
-npm install
+cnpm install
 ```
 
-### Compiles and hot-reloads for development
+### 编译运行
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+cnpm run serve
 ```
 
-### Lints and fixes files
+### 编译
 ```
-npm run lint
+cnpm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 整理和修复文件
+```
+cnpm run lint
+```
+
